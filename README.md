@@ -1,4 +1,4 @@
-## Esports repositories
+## Awesome Esports
 
 A curated list of open-source projects related to esports.
 
