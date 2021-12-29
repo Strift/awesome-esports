@@ -1,7 +1,12 @@
 name: CI
+
 on:
+  push:
+    branches:
+      - main
   pull_request:
-    branches: [main]
+    branches: 
+      - main
 jobs:
   lint:
     runs-on: ubuntu-latest
