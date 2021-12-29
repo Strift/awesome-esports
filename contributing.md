@@ -6,9 +6,9 @@ project you agree to abide by its terms.
 
 ---
 
-Ensure your pull request adheres to the following guidelines:
+Pull requests guidelines are not defined yet. Just make your PR as clear and concise as possible. :)
 
-> ⚠️ To be defined.
+> ⚠️ WIP: to be updated.
 
 Thank you for your suggestions!
 
