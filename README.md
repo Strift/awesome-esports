@@ -12,7 +12,6 @@ A curated list of open-source projects related to esports.
 - [Unofficial documentations](#unofficial-documentations)
 - [Applications & Tools](#applications--tools)
 - [Research & Case studies](#research--case-studies)
-- [Contribute](#contribute)
 
 ## Libraries
 
