@@ -1,6 +1,8 @@
 # Awesome Esports [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of open-source projects related to esports.
+> A curated list of open-source projects related to esports.
+
+Esports (also known as electronic sports, or e-sports) is a form of competition using video games. It often takes the form of organized, multiplayer video game competitions, particularly between professional players, individually or as teams.
 
 ## Contents
 
