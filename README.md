@@ -17,6 +17,7 @@ A curated list of open-source projects related to esports.
 - [Unofficial documentations](#unofficial-documentations)
 - [Applications & Tools](#applications--tools)
 - [Research & Case studies](#research--case-studies)
+- [Contribute](#contribute)
 
 ## Libraries
 
@@ -113,3 +114,8 @@ It contains all the logic needed to display tournaments.
 - [MoodGG](https://github.com/farzaa/MoodGGDesktopForOW): Electron.js/TensorFlow.js based desktop app behind the popular music streaming service mood.gg. See related [blog post](https://medium.com/@farzatv/deepoverwatch-combining-tensorflow-js-overwatch-computer-vision-and-music-1a84d4598bc0).
 - [onetricks.net](https://github.com/cnguy/onetricks.net): A web application displaying a list of high ELO one trick ponies in League of Legends, using kayn.
 - [ProjektZero-LoL-Model](https://github.com/MRittinghouse/ProjektZero-LoL-Model/): An attempt at modeling upcoming match probabilities using historic data by player and by team for competitive League of Legends.
+
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
