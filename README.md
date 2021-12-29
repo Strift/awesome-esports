@@ -84,9 +84,13 @@ It contains all the logic needed to display tournaments.
 
 - [Esport Team Logos](https://github.com/lootmarket/esport-team-logos): A database of Esports team logos.
 
+**Counter-Strike: Global Offensive**
+
+- [Boltobserv](https://github.com/boltgolt/boltobserv): A feature-packed rader for CS:GO observers.
+
 **Dota 2**
 
-- [Open Dota](https://github.com/odota/core): Open source Dota 2 data platform
+- [Open Dota](https://github.com/odota/core): Open source Dota 2 data platform.
 
 **League of Legends**
 
