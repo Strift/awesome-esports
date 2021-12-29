@@ -1,4 +1,4 @@
-# Awesome Esports
+# Awesome Esports [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of open-source projects related to esports.
 
