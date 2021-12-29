@@ -35,7 +35,8 @@ It contains all the logic needed to display tournaments.
 **Counter-Strike: Global Offensive**
 
 - [Clarity](https://github.com/skadistats/clarity): Comically fast Dota 2 & CSGO replay parser written in Java.
-- [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang): A blazing fast, feature complete and production ready Go library for parsing and analysing of Counter Strike: Global Offensive (CS:GO) demos (aka replays).
+- [csgo](https://github.com/pnxenopoulos/csgo): A Python package for data parsing, analytics, and visualization of CS:GO data.
+- [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang): A blazing fast, feature complete and production ready Go library for parsing and analysing of CS:GO demos (ie. replays.)
 
 **DotA 2**
 
@@ -58,6 +59,8 @@ It contains all the logic needed to display tournaments.
 - [valorant.js](https://github.com/liamcottle/valorant.js): This is an unofficial NodeJS library for interacting with the VALORANT APIs used in game.
 
 ### API wrappers
+
+> Please note this section excludes the video game-specific API wrappers, that live in the section above.
 
 - [Blizzard.js](https://github.com/benweier/blizzard.js): Blizzard.js is a promise-based Node.js library for the Blizzard Community Platform API written with TypeScript.
 - [Discord.js](https://github.com/discordjs/discord.js): A powerful JavaScript library for interacting with the Discord API.
