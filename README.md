@@ -37,6 +37,7 @@ It contains all the logic needed to display tournaments.
 - [Clarity](https://github.com/skadistats/clarity): Comically fast Dota 2 & CSGO replay parser written in Java.
 - [csgo](https://github.com/pnxenopoulos/csgo): A Python package for data parsing, analytics, and visualization of CS:GO data.
 - [demoinfocs-golang](https://github.com/markus-wa/demoinfocs-golang): A blazing fast, feature complete and production ready Go library for parsing and analysing of CS:GO demos (ie. replays.)
+- [HLTV](https://github.com/gigobyte/HLTV): An unofficial Node.js library for interacting with the HLTV API.
 
 **DotA 2**
 
