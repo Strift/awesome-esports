@@ -4,6 +4,8 @@
 
 Esports (also known as electronic sports, or e-sports) is a form of competition using video games. It often takes the form of organized, multiplayer video game competitions, particularly between professional players, individually or as teams.
 
+Unmaintained projects only relevant for research or educational purposes are now [archived](ARCHIVE.md).
+
 ## Contents
 
 - [Libraries](#libraries)
@@ -14,7 +16,6 @@ Esports (also known as electronic sports, or e-sports) is a form of competition 
 - [Developer tools](#developer-tools)
 - [Unofficial documentations](#unofficial-documentations)
 - [Applications & Tools](#applications--tools)
-- [Research & Case studies](#research--case-studies)
 
 ## Libraries
 
@@ -88,16 +89,6 @@ It contains all the logic needed to display tournaments.
 **Valorant**
 
 - [Valorant Zone Stats](https://github.com/LouisAsanaka/Valorant-Zone-Stats) - View your VALORANT performance in different areas of every map in the game.
-
-## Research & Case studies
-
-> Research and projects for educational purpose.
-
-- [lol-game-analysis](https://github.com/remixz/lol-game-analysis) - League of Legends match timeline replay based on match history.
-- [MoodGG](https://github.com/farzaa/MoodGGDesktopForOW) - Electron.js/TensorFlow.js based desktop app behind the popular music streaming service mood.gg. See related [blog post](https://medium.com/@farzatv/deepoverwatch-combining-tensorflow-js-overwatch-computer-vision-and-music-1a84d4598bc0).
-- [onetricks.net](https://github.com/cnguy/onetricks.net) - A web application displaying a list of high ELO one trick ponies in League of Legends, using kayn.
-- [ProjektZero-LoL-Model](https://github.com/MRittinghouse/ProjektZero-LoL-Model/) - An attempt at modeling upcoming match probabilities using historic data by player and by team for competitive League of Legends.
-
 
 ## Contributing
 
