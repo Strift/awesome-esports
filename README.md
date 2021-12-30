@@ -90,4 +90,4 @@ Unmaintained projects only relevant for research or educational purposes are now
 
 ## Contributing
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
