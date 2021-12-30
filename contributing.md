@@ -6,12 +6,12 @@ project you agree to abide by its terms.
 
 ---
 
-Pull requests guidelines are not defined yet. Just make your PR as clear and concise as possible. :)
-
-> ⚠️ WIP: to be updated.
+Quick rules for opening a pull request:
+- The name should reference the package(s), eg. `Add my-esports-package` 
+- Your addition(s) to the list should be insert alphabetically in the list and include a description
+- Be as clear and concise as possible
 
 Thank you for your suggestions!
-
 
 ## Updating your PR
 
