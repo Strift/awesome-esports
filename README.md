@@ -2,7 +2,7 @@
 
 > A curated list of open-source projects related to esports.
 
-Esports (also known as electronic sports, or e-sports) is a form of competition using video games. It often takes the form of organized, multiplayer video game competitions, particularly between professional players, individually or as teams.
+[Esports](https://en.wikipedia.org/wiki/Esports) (also known as electronic sports, or e-sports) is a form of competition using video games. It often takes the form of organized, multiplayer video game competitions, particularly between professional players, individually or as teams.
 
 Unmaintained projects only relevant for research or educational purposes are now [archived](ARCHIVE.md).
 
