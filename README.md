@@ -8,15 +8,18 @@ Unmaintained projects, now only relevant for educational purposes are in the [Ar
 
 ## Contents
 
-- [Libraries](#libraries)
-  - [APIs & Web Services](#apis--web-services)
-  - [Authentication](#authentication)
-  - [Data parsing and analysis](#data-parsing-and-analysis)
-  - [Team management](#team-management)
-  - [Tournaments management](#tournaments-management)
-- [Developer tools](#developer-tools)
-- [Unofficial documentations](#unofficial-documentations)
-- [Applications & Tools](#applications--tools)
+- [Awesome Esports ![Awesome](https://awesome.re)](#awesome-esports-)
+  - [Contents](#contents)
+  - [Libraries](#libraries)
+    - [APIs & Web Services](#apis--web-services)
+    - [Authentication](#authentication)
+    - [Data parsing and analysis](#data-parsing-and-analysis)
+    - [Team management](#team-management)
+    - [Tournaments management](#tournaments-management)
+  - [Developer tools](#developer-tools)
+  - [Unofficial documentations](#unofficial-documentations)
+  - [Applications & Tools](#applications--tools)
+  - [Contributing](#contributing)
 
 ## Libraries
 
@@ -78,6 +81,7 @@ Unmaintained projects, now only relevant for educational purposes are in the [Ar
 > Applications and general-purpose tooling.
 
 - [Esport Team Logos](https://github.com/lootmarket/esport-team-logos) - A database of Esports teams logos.
+- [LoL Power Ranking](https://github.com/arnaudmanaranche/lol-power-ranking) - Share easily your League of Legends power rankings.
 
 **Counter-Strike: Global Offensive**
 
@@ -91,6 +95,7 @@ Unmaintained projects, now only relevant for educational purposes are in the [Ar
 
 - [LeagueDirector](https://github.com/RiotGames/leaguedirector) - A desktop application for staging and recording videos from League of Legends replays.
 - [LeagueStats](https://github.com/vkaelin/LeagueStats) - A website for League of Legends summoners stats.
+
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
