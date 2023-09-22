@@ -94,7 +94,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 - [LeagueDirector](https://github.com/RiotGames/leaguedirector) - A desktop application for staging and recording videos from League of Legends replays.
 - [LeagueStats](https://github.com/vkaelin/LeagueStats) - A website for League of Legends summoners' stats.
 
-## Resources
+## Education
 
 - [League of Legends Analytics](https://github.com/FloPrm/lol_analytics) - A collection of League of Legends data-related guides, libraries, and learning materials for Data Analysts.
 
