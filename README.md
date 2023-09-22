@@ -15,7 +15,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
   - [Team management](#team-management)
   - [Tournaments management](#tournaments-management)
 - [Developer tools](#developer-tools)
-- [Unofficial documentation](#unofficial-documentations)
+- [Unofficial documentation](#unofficial-documentation)
 - [Applications & Tools](#applications--tools)
 - [Education](#education)
 
