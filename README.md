@@ -37,6 +37,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 - [SteamUser](https://github.com/DoctorMcKay/node-steam-user) - A Node.js library for interacting with the Steam network via the Steam client protocol.
 - [Steam TOTP](https://github.com/DoctorMcKay/node-steam-totp) - A Node.js library for generating Steam-style 2FA codes.
 - [valorant.js](https://github.com/liamcottle/valorant.js) - A Node.js library for interacting with the VALORANT APIs used in game.
+- [Vedika](https://vedika.io) - An AI-powered astrology API for gaming and entertainment apps, providing personalized insights, horoscopes, kundali matching, and astrological chatbot features.
 
 ### Authentication
 
