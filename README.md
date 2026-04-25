@@ -101,3 +101,5 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+- [KeyboardTester.click — TTK + eDPI calculators](https://keyboardtester.click/ttk-calculator.php) - Free browser tools for FPS players: TTK (time-to-kill) calculator with CS2/Valorant/Apex/CoD presets, eDPI calculator with cm/360 conversion. Open source.
