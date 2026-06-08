@@ -65,6 +65,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 > Tooling for developers.
 
 - [Fortnite VSCode Theme](https://github.com/sdras/fortnite-vscode-theme) - A Visual Studio Code theme inspired by Fortnite.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI esports analytics agents. Verify autonomous agent wallet identity before x402 micropayment access to premium game data APIs and real-time statistics feeds. Zero-install MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ## Unofficial documentation
 
