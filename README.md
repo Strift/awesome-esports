@@ -28,6 +28,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 - [Blizzard.js](https://github.com/benweier/blizzard.js) - A Node.js library for interacting with the Blizzard Community Platform API.
 - [Discord.js](https://github.com/discordjs/discord.js) - A Node.js library for interacting with the Discord API.
 - [HLTV](https://github.com/gigobyte/HLTV) - A Node.js library for interacting with the HLTV API.
+- [KashRock](https://www.kashrock.com) - A REST API (with Python/JS SDKs and an MCP server) for esports data — props, odds, live scores, and player stats across CS2, Valorant, LoL, Dota 2, CoD, R6, Mobile Legends, and Apex Legends.
 - [liquipediapy](https://github.com/c00kie17/liquipediapy) - A Python library for interacting with the Liquipedia API.
 - [steam](https://github.com/ValvePython/steam/) - A Python library for interacting with various parts of Steam.
 - [Steam Community](https://github.com/DoctorMcKay/node-steamcommunity) - A Node.js library for interacting with the Steam Community website.
