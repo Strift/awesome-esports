@@ -79,6 +79,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 > Applications and general-purpose tooling.
 
 - [Esport Team Logos](https://github.com/lootmarket/esport-team-logos) - A database of Esports teams logos.
+- [TeamTavern](https://github.com/bklaric/team-tavern) - A website for finding players, groups and communities to play with.
 
 **Counter-Strike: Global Offensive**
 
