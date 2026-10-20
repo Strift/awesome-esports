@@ -27,6 +27,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 - [Blizzard.js](https://github.com/benweier/blizzard.js) - A Node.js library for interacting with the Blizzard Community Platform API.
 - [Discord.js](https://github.com/discordjs/discord.js) - A Node.js library for interacting with the Discord API.
+- [esportsodds-python](https://github.com/esportsodds/esportsodds-python) - A Python client library and MCP server for the esportsodds.gg CS2 data API.
 - [HLTV](https://github.com/gigobyte/HLTV) - A Node.js library for interacting with the HLTV API.
 - [liquipediapy](https://github.com/c00kie17/liquipediapy) - A Python library for interacting with the Liquipedia API.
 - [steam](https://github.com/ValvePython/steam/) - A Python library for interacting with various parts of Steam.
