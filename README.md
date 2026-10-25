@@ -96,6 +96,10 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 - [LeagueDirector](https://github.com/RiotGames/leaguedirector) - A desktop application for staging and recording videos from League of Legends replays.
 - [LeagueStats](https://github.com/vkaelin/LeagueStats) - A website for League of Legends summoners' stats.
 
+**VALORANT**
+
+- [vlrdevapi](https://github.com/Vanshbordia/vlrdevapi) - A Python client library for accessing Valorant esports data from VLR.gg.
+
 ## Education
 
 - [League of Legends Analytics](https://github.com/FloPrm/lol_analytics) - A collection of League of Legends data-related guides, libraries, and learning materials for Data Analysts.
