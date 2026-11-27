@@ -81,6 +81,7 @@ Unmaintained projects, now only relevant for educational purposes, are in the [A
 
 - [Clips Kitty](https://github.com/ColinGPT9/clips-studio) - A Windows app that turns esports and gaming stream VODs from Twitch, Kick and YouTube into captioned vertical highlight clips.
 - [Esport Team Logos](https://github.com/lootmarket/esport-team-logos) - A database of Esports teams logos.
+- [ICARE MCP](https://github.com/Djangode/icare-mcp) - An MCP server that lets AI agents follow live streamer esports matches (CS2, Valorant, EA FC, Rocket League, League of Legends) and their results, settled by an AI referee that reads the stream.
 - [TeamTavern](https://github.com/bklaric/team-tavern) - A website for finding players, groups and communities to play with.
 
 **Counter-Strike: Global Offensive**
